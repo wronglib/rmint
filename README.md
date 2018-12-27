@@ -21,6 +21,8 @@ sudo apt-get update
 sudo apt-get install r-base
 ```
 
+### Install RStudio from https://www.rstudio.com/products/rstudio/download/
+
 ### Install requirements for tidyverse
 
 ```
