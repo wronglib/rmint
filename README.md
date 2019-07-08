@@ -28,6 +28,6 @@ https://www.rstudio.com/products/rstudio/download/#download
 ## In R
 
 ```
-install.packages(c(tidyverse, devtools, blogdown))
+install.packages(c("tidyverse", "devtools", "blogdown"))
 remotes::install_github("rstudio/gt")
 ```
