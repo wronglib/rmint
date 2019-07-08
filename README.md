@@ -1,30 +1,21 @@
-# R in Linux Mint
-
-Installing R and RStudio in Linux Mint is not really difficult, but there are certain requirements that must be installed from terminal if you want to have the latest version updated from CRAN repositories.
-
-### Add R-base repository
 
 ```
-sudo apt-get install gedit
-sudo gedit /etc/apt/sources.list
-```
+sudo apt-get update 
 
-### Add this line:
+sudo apt-get install mint-meta-codecs chromium-browser vlc deluge dropbox r-base arc-theme winehq-stable install libxml2-dev libcurl4-openssl-dev libssl-dev build-essential g++
 
-```    
-deb [trusted=yes] https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/
-```
-### Update repositories and install r-base
+# Abricotine
+# https://github.com/brrd/Abricotine/releases
 
-```
-sudo apt-get update
-sudo apt-get install r-base
-```
+# Visual Code Studio
+# https://code.visualstudio.com/download
 
-### Install RStudio from https://www.rstudio.com/products/rstudio/download/
+# RStudio
+# https://www.rstudio.com/products/rstudio/download/#download
 
-### Install requirements for tidyverse
+sudo apt-get remove thunderbird hexchat transmission-gtk
 
-```
-sudo apt-get install libxml2-dev libcurl4-openssl-dev libssl-dev build-essential g++
+# Keyboard Shortcuts
+# thunar (Ctrl+E)
+
 ```
