@@ -11,6 +11,9 @@ sudo apt-get remove thunderbird hexchat transmission-gtk
 ## Keyboard Shortcuts
 - thunar (Ctrl+E)
 
+## Remove Applications at Start
+- Bluetooth
+
 ## Download and Install
 
 - Abricotine
