@@ -1,15 +1,13 @@
-## In Terminal
+###
 
-```
-sudo apt-get update 
+INICIO + E = FILE MANAGER
+INICIO = MENÚ INICIO
 
-sudo apt-get install mint-meta-codecs chromium-browser vlc deluge dropbox r-base arc-theme winehq-stable install libxml2-dev libcurl4-openssl-dev libssl-dev build-essential g++
+###
 
-sudo apt-get remove thunderbird hexchat transmission-gtk
-```
+sudo apt-get install chromium-browser vlc deluge nautilus-dropbox r-base libcurl4-openssl-dev libssl-dev build-essential g++
 
-## Keyboard Shortcuts
-- thunar (Ctrl+E)
+sudo apt-get remove thunderbird pidgin transmission-gtk
 
 ## Remove Applications at Start
 - Bluetooth
@@ -31,3 +29,4 @@ https://www.rstudio.com/products/rstudio/download/#download
 install.packages(c("tidyverse", "devtools", "blogdown"))
 remotes::install_github("rstudio/gt")
 ```
+
