@@ -4,7 +4,7 @@
 ```
 sudo apt-get update
 sudo apt-get install chromium-browser vlc deluge nautilus-dropbox r-base libcurl4-openssl-dev libssl-dev build-essential g++
-sudo apt-get remove thunderbird pidgin transmission-gtk
+sudo apt-get remove thunderbird pidgin transmission-gtk parole
 ```
 
 ## Download and Install
