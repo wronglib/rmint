@@ -1,16 +1,11 @@
-###
 
-INICIO + E = FILE MANAGER
-INICIO = MENÚ INICIO
+### In Terminal
 
-###
-
+```
+sudo apt-get update
 sudo apt-get install chromium-browser vlc deluge nautilus-dropbox r-base libcurl4-openssl-dev libssl-dev build-essential g++
-
 sudo apt-get remove thunderbird pidgin transmission-gtk
-
-## Remove Applications at Start
-- Bluetooth
+```
 
 ## Download and Install
 
@@ -30,3 +25,7 @@ install.packages(c("tidyverse", "devtools", "blogdown"))
 remotes::install_github("rstudio/gt")
 ```
 
+## Keyboard Shortcuts
+
+File Manager: Super + E
+Menu: Super
