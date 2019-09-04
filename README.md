@@ -30,4 +30,5 @@ remotes::install_github("rstudio/gt")
 ## Keyboard Shortcuts
 
 File Manager: Super + E
+
 Menu: Super
