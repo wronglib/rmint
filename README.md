@@ -2,11 +2,10 @@
 ### In Terminal
 
 ```
-sudo apt-get update
-sudo apt-get install chromium-browser vlc deluge nautilus-dropbox r-base libcurl4-openssl-dev libssl-dev build-essential g++ libxml2-dev
-sudo apt-get remove thunderbird pidgin transmission-gtk parole
+sudo apt-get update 
+sudo apt-get install mint-meta-codecs vlc deluge dropbox r-base winehq-stable libxml2-dev libcurl4-openssl-dev libssl-dev build-essential g++
 sudo apt-get install pcscd pcsc-tools libccid
-snap install spotify
+sudo apt-get remove thunderbird hexchat transmission-gtk
 ```
 
 ## Download and Install
