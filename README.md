@@ -3,9 +3,7 @@
 
 ```
 sudo apt-get update 
-sudo apt-get install mint-meta-codecs vlc deluge dropbox r-base winehq-stable libxml2-dev libcurl4-openssl-dev libssl-dev build-essential g++
-sudo apt-get install pcscd pcsc-tools libccid
-sudo apt-get remove thunderbird hexchat transmission-gtk
+sudo apt-get install vlc qbittorrent libxml2-dev libcurl4-openssl-dev libssl-dev build-essential g++ pcscd pcsc-tools libccid
 ```
 
 ## Download and Install
